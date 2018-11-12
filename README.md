@@ -5,6 +5,9 @@ This repository contains the slides from the lectures I gave during the school, 
 The topics I covered in the school:
 1. **Introduction to Unsupervised Learning:** The main differences between supervised and unsupervised learning algorithms, and the basic anatomy of unsupervised learning algorithms. 
 2. **Clustering Algorithms:** K-means, Hierarchical Clustering, and Gaussian mixture models.
-3. **Decision Trees and Random Forests:**: Decision Trees and their advantages and disadvantages, ensemble methods, Random Forest, Probabilistic Random Forest, Unsupervised Random Forest for distance assignment.
-4. **Dimensionality Reduction Algorithms:**: principle component analysis (PCA), independent component analysis (ICA), non-negative matrix factorization (NNMF), t-distributed stochastic neighbor embedding (tSNE), uniform manifold approximation and projection (UMAP), self-organizing maps (SOM), and PINK. Specifically, we discussed methods with which we can interpret the low-dimensional output of such algorithms.
+3. **Decision Trees and Random Forests:**: decision trees and their advantages and disadvantages, ensemble methods, random forest, probabilistic random forest, unsupervised random forest for distance assignment.
+4. **Dimensionality Reduction Algorithms:**: principle component analysis (PCA), independent component analysis (ICA), non-negative matrix factorization (NNMF), t-distributed stochastic neighbor embedding (tSNE), uniform manifold approximation and projection (UMAP),auto-encoders, self-organizing maps (SOM), and PINK. Specifically, we discussed methods with which we can interpret the low-dimensional output of such algorithms.
 5. **Outlier Detection Algorithms:** anomaly detection with supervised learning algorithms, isolation forests, and unsupervised random forests for distance estimation.
+
+**Related Github repositories:**
+1. Neural Networks and Deep Learning by M. Huertas Company: https://github.com/mhuertascompany/IAC_XXX_WINTER/tree/master/morphology
