@@ -10,7 +10,9 @@ The topics I covered in the school:
 5. **Outlier Detection Algorithms:** anomaly detection with supervised learning algorithms, isolation forests, and unsupervised random forests for distance estimation.
 
 ## Related Github repositories:
-1. Neural Networks and Deep Learning by M. Huertas Company: https://github.com/mhuertascompany/IAC_XXX_WINTER/tree/master/morphology
+1. Neural Networks and Deep Learning tutorials by M. Huertas Company: https://github.com/mhuertascompany/IAC_XXX_WINTER/tree/master/morphology
+2. Unsupervised Random Forest and distance assignment by D. Baron: https://github.com/dalya/WeirdestGalaxies
+3. Probabilistic Random Forest by I. Reis: https://github.com/ireis/PRF
 
 ## Tutorial Requirements:
 1. Anaconda Python 2.7 version: https://www.anaconda.com/download
