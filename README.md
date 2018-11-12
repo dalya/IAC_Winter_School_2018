@@ -9,5 +9,9 @@ The topics I covered in the school:
 4. **Dimensionality Reduction Algorithms:**: principle component analysis (PCA), independent component analysis (ICA), non-negative matrix factorization (NNMF), t-distributed stochastic neighbor embedding (tSNE), uniform manifold approximation and projection (UMAP),auto-encoders, self-organizing maps (SOM), and PINK. Specifically, we discussed methods with which we can interpret the low-dimensional output of such algorithms.
 5. **Outlier Detection Algorithms:** anomaly detection with supervised learning algorithms, isolation forests, and unsupervised random forests for distance estimation.
 
-**Related Github repositories:**
+## Related Github repositories:
 1. Neural Networks and Deep Learning by M. Huertas Company: https://github.com/mhuertascompany/IAC_XXX_WINTER/tree/master/morphology
+
+## Tutorial Requirements:
+1. Anaconda Python 2.7 version: https://www.anaconda.com/download
+2. The tutorials are available through Jupyter notebooks. The tutorials use the following packages: numpy, scipy, scikit-learn, and matplotlib.
